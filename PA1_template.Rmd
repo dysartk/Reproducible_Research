@@ -1,7 +1,12 @@
 #Programming Assignment #1'
-Kevin Dysart
+Kevin Dysart  
 December 20th, 2015
 
+The first step in the process is to laod the data into R. The assignment states that the file  
+may be downloaded directy from the site and then loaded in the R from a local drive.  
+
+I downloaded the file and then stored it locally. Then read the file into R with the following  
+code.  
 
 ```{r}
 ```
